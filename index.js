@@ -3,7 +3,7 @@ const chapter=Math.floor(Math.random() * 18);
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '635c6f0580mshcdaa328a46d8d07p122244jsn2adfb39fc12e',
+        'X-RapidAPI-Key': 'please place your api key',
         'X-RapidAPI-Host': 'bhagavad-gita3.p.rapidapi.com'
     }
 };
